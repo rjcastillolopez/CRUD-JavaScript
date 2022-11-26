@@ -307,7 +307,7 @@ function main() {
    // update
    button("Actualizar", "orange", "darkorange", update);
    // delete
-   button("Borrar", "red", "darkred", del);
+   button("Eliminar", "red", "darkred", del);
    // filter by date
    button("Filtrar", "gray", "black", filter_by_date);
 }
